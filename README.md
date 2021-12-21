@@ -17,9 +17,10 @@
     - Backbone Network: FPN
     - Loss function: Focal Loss
 
-![image](https://user-images.githubusercontent.com/84028683/146949733-29ff2d1f-864c-4c21-b72a-f19273b27a89.png)
-- Detectron2 Framework
-    - COCO Detection
+![image](https://user-images.githubusercontent.com/84028683/146949860-0c3b9b43-0fbd-4a6f-b436-430fe5f32369.png)
+- [Detectron2 Framework](https://github.com/facebookresearch/detectron2)
+    - Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms.
+    - We used COCO Detection algorithms.
 
 </br>
 </br>
