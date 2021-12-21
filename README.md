@@ -11,11 +11,15 @@
 </br>
 
 ## 🧠 Architecture
+![image](https://user-images.githubusercontent.com/84028683/146949696-392656e1-ca4f-404b-bfd9-8f57e8655d13.png)
 - RetinaNet
     - FeedForward: RetinaNet
     - Backbone Network: FPN
     - Loss function: Focal Loss
+
+![image](https://user-images.githubusercontent.com/84028683/146949733-29ff2d1f-864c-4c21-b72a-f19273b27a89.png)
 - Detectron2 Framework
+    - COCO Detection
 
 </br>
 </br>
@@ -40,6 +44,7 @@
 
 ## 👩‍🔬 Team
 ---
-|![image](https://user-images.githubusercontent.com/84028683/146949450-631762f3-5fec-476e-9b47-e403348369cb.png)|![image](https://user-images.githubusercontent.com/84028683/146949430-c0236586-bd6a-4dec-a59d-350a086a43c0.png)|![image](https://user-images.githubusercontent.com/84028683/146949467-8503051e-da02-433f-bdc5-db2e00907f13.png)|![image](https://user-images.githubusercontent.com/84028683/146949490-0bddd97b-57fa-4c73-922b-da87d30464ed.png)
-|--|--|--|--|
-|차수연|김하늘|유상민|황동호|
+- 차수연
+- 김하늘
+- 유상민
+- 황동호
