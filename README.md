@@ -12,15 +12,41 @@
 
 ## 🧠 Architecture
 ![image](https://user-images.githubusercontent.com/84028683/146949696-392656e1-ca4f-404b-bfd9-8f57e8655d13.png)
-- RetinaNet
+- **RetinaNet**
     - FeedForward: RetinaNet
     - Backbone Network: FPN
     - Loss function: Focal Loss
 
 ![image](https://user-images.githubusercontent.com/84028683/146949860-0c3b9b43-0fbd-4a6f-b436-430fe5f32369.png)
-- [Detectron2 Framework](https://github.com/facebookresearch/detectron2)
+- [**Detectron2 Framework**](https://github.com/facebookresearch/detectron2)
     - Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms.
     - We used COCO Detection algorithms.
+
+</br>
+</br>
+
+## 문제점 및 해결 방법
+
+1. 학습 속도 개선
+    - 2-stage 기반의 Faster R-CNN에서 RetinaNet으로 backbone network 변경
+2. Data Imbalance
+    - Category 분류 학습
+3. Class Imbalance
+    - RetinaNet의 Focal loss로 loss 값 조정
+        - Positive/Negative Sample에 다른 가중치 부여
+        - Easy/Hard Sample에 다른 가중치 부여
+4. Oriented Bounding Box 구현 → 실패
+    
+    ![image](https://user-images.githubusercontent.com/84028683/146950221-a245772b-5391-4cd0-9b7b-47b346f094b8.png)
+    
+    위성영상 특성상, 객체가 회전해 있다는 특징으로 OBB 구현을 시도하였으나 실패함
+    
+    **원인**
+    
+    - OBB가 구현되는 network를 이용하지 못하였음
+        - RBox Faster R-CNN을 사용하였다가 RetinaNet으로 network 변경
+    - Framework 선택 착오
+        - 객체를 회전 시킬 수 있는 툴킷이 있는 프레임워크를 사용했어야 했지만, 해커톤 때 이용한 Detectron2에는 맞는 기능이 없었음
 
 </br>
 </br>
