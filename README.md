@@ -21,6 +21,18 @@
 </br>
 </br>
 
+## DATASET
+
+- Dataset Download: [AI hub](https://aihub.or.kr/aidata/7982)
+- 데이터 구성
+    - 영상: kml + png + tif
+    - Annotation: json
+    - Patch Size: 1,024x1,024
+
+</br>
+</br>
+
+
 ## 🧠 Architecture
 ![image](https://user-images.githubusercontent.com/84028683/146949696-392656e1-ca4f-404b-bfd9-8f57e8655d13.png)
 - **RetinaNet**
@@ -73,12 +85,12 @@
 
 </br>
 
-#### Dataset
+### Dataset
 ![image](https://user-images.githubusercontent.com/84028683/146953535-5a7f4d12-c38a-4d54-95df-7f9ff2d1db7e.png)
 
 </br>
 
-#### Large Image
+### Large Image
 
 ![image](https://user-images.githubusercontent.com/84028683/146953791-d115bf61-73af-491f-a5f5-e578186aa251.png)
 
