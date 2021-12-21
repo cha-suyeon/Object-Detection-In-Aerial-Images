@@ -45,8 +45,9 @@
     
     - OBB가 구현되는 network를 이용하지 못하였음
         - RBox Faster R-CNN을 사용하였다가 RetinaNet으로 network 변경
-    - Framework 선택 착오
-        - 객체를 회전 시킬 수 있는 툴킷이 있는 프레임워크를 사용했어야 했지만, 해커톤 때 이용한 Detectron2에는 맞는 기능이 없었음
+    - Framework toolkit 이용 방법
+        - 객체를 회전 시킬 수 있는 툴킷이 있는 프레임워크 사용 시도 한계
+        - 해커톤 때 이용한 Detectron2에는 맞는 기능이 없었음
 
 </br>
 </br>
