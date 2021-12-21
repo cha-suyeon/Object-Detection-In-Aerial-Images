@@ -1,7 +1,7 @@
 ﻿# Object-Dectection-In-Aerial-Images
 
-## 🏁 Task
 ---
+## 🏁 Task
 `Object Dectection In Aerial Images`
 1. 인공위성 영상에서 목표 객체 검출 모델 구현
 2. Scene 단위 영상(10,000x10,000)에서 객체 탐지
@@ -10,6 +10,7 @@
 </br>
 </br>
 
+---
 ## 🧠 Architecture
 ![image](https://user-images.githubusercontent.com/84028683/146949696-392656e1-ca4f-404b-bfd9-8f57e8655d13.png)
 - **RetinaNet**
@@ -24,6 +25,7 @@
 </br>
 </br>
 
+---
 ## 👩‍💻문제점 및 해결 방법
 
 1. 학습 속도 개선
@@ -51,6 +53,7 @@
 </br>
 </br>
 
+---
 ## ⛰ Project Result
 
 |Training Step|AP|AP50|AP75|
@@ -62,12 +65,14 @@
 
 </br>
 
+---
 **Dataset**
 
 |![image](https://user-images.githubusercontent.com/84028683/146952686-825f88a5-403c-4a2d-94d7-9131627eeb1e.png)|![Untitled (5)](https://user-images.githubusercontent.com/84028683/146952838-02a119aa-c4c9-4874-81ec-8c4601b14410.png)|
 |--|--|
 |Detect Example|Ground Truth|
 
+---
 **Large Image**
 
 |![image](https://user-images.githubusercontent.com/84028683/146952588-744e3075-40ba-4bcf-99be-0350159782c8.png)|![image](https://user-images.githubusercontent.com/84028683/146952623-0924a13d-b04f-48bd-9516-d77334247d97.png)|
@@ -77,9 +82,9 @@
 </br>
 </br>
 
-## 🎇 Extra
+---
+## 📜 Paper Review
 
-**Paper Review**
 - 📃[YOLO: You Only Look Once - YOLO v1](https://velog.io/@cha-suyeon/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-You-Only-Look-Once-YOLO-v1-v2-v3)
 - 📃[YOLT: You Only Look Twice](https://velog.io/@cha-suyeon/%EC%A0%95%EB%A6%AC-You-Only-Look-Twice-Part-I)
 - 📃[RetinaNet](https://velog.io/@cha-suyeon/Focal-Loss-for-Dense-Object-Detection)
@@ -87,8 +92,8 @@
 </br>
 </br>
 
-## 👩‍🔬 Team
 ---
+## 👩‍🔬 Team
 - 차수연
 - 김하늘
 - 유상민
