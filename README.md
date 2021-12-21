@@ -9,6 +9,17 @@
 </br>
 </br>
 
+## 👩‍🔬 Contributor
+
+|Name|Task|
+|차수연|EDA, 데이터 포맷 변환, 모델 학습 및 분석, 최종 발표 및 PPT|
+|김하늘|프로젝트 진행 방향 및 라이브러리 구현, 모델 학습 및 분석|
+|유상민|프로젝트 서버, 모델 환경 구현, 모델 학습 및 분석|
+|황동호|전반적 이슈에 대한 문제 해결 방법 서치, 모델 학습 및 분석, Large Image|
+
+</br>
+</br>
+
 ## 🧠 Architecture
 ![image](https://user-images.githubusercontent.com/84028683/146949696-392656e1-ca4f-404b-bfd9-8f57e8655d13.png)
 - **RetinaNet**
@@ -79,11 +90,5 @@
 - 📃[YOLT: You Only Look Twice](https://velog.io/@cha-suyeon/%EC%A0%95%EB%A6%AC-You-Only-Look-Twice-Part-I)
 - 📃[RetinaNet](https://velog.io/@cha-suyeon/Focal-Loss-for-Dense-Object-Detection)
 
-</br>
-</br>
 
-## 👩‍🔬 Team
-- 차수연
-- 김하늘
-- 유상민
-- 황동호
+
