@@ -69,6 +69,12 @@
 </br>
 </br>
 
+## Extra
+
+- 📃[YOLO: You Only Look Once - YOLO v1 Paper Review](https://velog.io/@cha-suyeon/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-You-Only-Look-Once-YOLO-v1-v2-v3)
+- 📜[YOLT: You Only Look Twice Paper Review](https://velog.io/@cha-suyeon/%EC%A0%95%EB%A6%AC-You-Only-Look-Twice-Part-I)
+- 📄[RetinaNet Paper Review](https://velog.io/@cha-suyeon/Focal-Loss-for-Dense-Object-Detection)
+
 ## 👩‍🔬 Team
 ---
 - 차수연
