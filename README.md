@@ -61,14 +61,12 @@
 
 </br>
 
-**Dataset**
-![image](https://user-images.githubusercontent.com/84028683/146953499-c170d6a4-b07c-4330-8a40-426432a5122b.png)
+#### Dataset
+![image](https://user-images.githubusercontent.com/84028683/146953535-5a7f4d12-c38a-4d54-95df-7f9ff2d1db7e.png)
 
-|![image](https://user-images.githubusercontent.com/84028683/146952686-825f88a5-403c-4a2d-94d7-9131627eeb1e.png)|![Untitled (5)](https://user-images.githubusercontent.com/84028683/146952838-02a119aa-c4c9-4874-81ec-8c4601b14410.png)|
-|--|--|
-|Detect Example|Ground Truth|
+</br>
 
-**Large Image**
+#### Large Image
 
 |![image](https://user-images.githubusercontent.com/84028683/146952588-744e3075-40ba-4bcf-99be-0350159782c8.png)|![image](https://user-images.githubusercontent.com/84028683/146952623-0924a13d-b04f-48bd-9516-d77334247d97.png)|
 |--|--|
