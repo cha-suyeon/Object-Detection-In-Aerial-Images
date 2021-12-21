@@ -68,9 +68,7 @@
 
 #### Large Image
 
-|![image](https://user-images.githubusercontent.com/84028683/146952588-744e3075-40ba-4bcf-99be-0350159782c8.png)|![image](https://user-images.githubusercontent.com/84028683/146952623-0924a13d-b04f-48bd-9516-d77334247d97.png)|
-|--|--|
-|Detect Example 1|Detect Example 2|
+![image](https://user-images.githubusercontent.com/84028683/146953791-d115bf61-73af-491f-a5f5-e578186aa251.png)
 
 </br>
 </br>
