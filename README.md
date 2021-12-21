@@ -50,7 +50,7 @@
 </br>
 </br>
 
-## 👩‍💻문제점 및 해결 방법
+## 👩‍💻 문제점 및 해결 방법
 
 1. 학습 속도 개선
     - 2-stage 기반의 Faster R-CNN에서 RetinaNet으로 backbone network 변경
