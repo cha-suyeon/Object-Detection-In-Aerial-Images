@@ -28,6 +28,9 @@
     - 영상: kml + png + tif
     - Annotation: json
     - Patch Size: 1,024x1,024
+- Large Image
+    - type: tif
+    - Pixel Size: 12362 x 11344
 
 </br>
 </br>
