@@ -1,7 +1,7 @@
 ﻿# Object-Dectection-In-Aerial-Images
 
 ## 🏁 Task
-`Object Dectection In Aerial Images`
+`Object Detection In Aerial Images`
 1. 인공위성 영상에서 목표 객체 검출 모델 구현
 2. Scene 단위 영상(10,000x10,000)에서 객체 탐지
 3. EDA를 통한 데이터 분석 후 검출 모델 성능 향상
