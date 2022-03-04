@@ -139,7 +139,7 @@
 ### Model Architecture
 - **RetinaNet**
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/92dc24e6-2826-4d8a-941e-c546c46ae4f0/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/84028683/156780000-d8ba593d-ed32-473f-a806-0ce56d3afa4b.png)
     
     - Feed Forward Network: ResNet
     - Backbone Network: FPN (Feature Pyramid Networks)
@@ -174,7 +174,7 @@ Based on this large-scale and well-annotated dataset from AI hub, we built basel
     - Train, evaluate and test two datasets separately.
 3. Oriented Bounding Box
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2b24bc31-0638-45da-901d-4eb310d87600/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/84028683/156780045-dcb17ee4-f9ea-44cc-be82-658f28767520.png)
     
     The variations of the orientation of objects is caused by the bird's-eye view of aerial images. So we tried to draw rotated bounding box, but couldn’t succeed.
     
