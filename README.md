@@ -22,8 +22,9 @@
 
 - Dataset Download: [AI hub](https://aihub.or.kr/aidata/7982)
 - Data Info
-    - Images: kml + png + tif
+    - Images: png + tif
     - Annotation: json
+    - Geographic context: Kml
     - Patch Size: 1,024x1,024
 - Large Image
     - type: tif
