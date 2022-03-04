@@ -1,4 +1,4 @@
-﻿# Object-Dectection-In-Aerial-Images
+﻿# Object-Detection-In-Aerial-Images
 
 ## 🏁 Task
 `Object Detection In Aerial Images`
