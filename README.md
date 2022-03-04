@@ -108,3 +108,32 @@
 
 
 
+---
+## Project Objectives
+
+- To detect focal objects of interest in the satellite imagery
+- To improve performance with architecture and framework
+- Analysis on the result such as object size and type
+
+## Members
+
+| Name | Role | Task |
+| --- | --- | --- |
+| 차수연 | Team member | EDA, Transform the dataset’s format, Training model and Analysis on the result and PPT. Mange GCP. |
+| 김하늘 | Team leader | Manage the projects objectives. Training model and Analysis on the result. |
+| 유상민 | Team member | Team member. Training model and Analysis on the result. Server management. |
+| 황동호 | Team member | Team member. Training large Image and Analysis on the result. Issue management. |
+
+## **Dataset**
+
+- Dataset Download: [AI hub](https://aihub.or.kr/aidata/7982)
+- Data Info
+    - Images: kml + png + tif
+    - Annotation: json
+    - Patch Size: 1,024x1,024
+- Large Image
+    - type: tif
+    - Pixel Size: 12362 x 11344
+    
+
+### Model Architecture
