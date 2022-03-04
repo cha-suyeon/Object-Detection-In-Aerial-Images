@@ -102,11 +102,15 @@ Based on this large-scale and well-annotated dataset from AI hub, we built basel
 | 50,000 | 12.321 | 23.320 | 11.770 |
 | 150,000 | 13.140 | 24.475 | 13.262 |
 
+<br/>
+
 ### **Paper Review**
 
 - 📃[YOLO: You Only Look Once - YOLO v1](https://velog.io/@cha-suyeon/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-You-Only-Look-Once-YOLO-v1-v2-v3)
 - 📃[YOLT: You Only Look Twice](https://velog.io/@cha-suyeon/%EC%A0%95%EB%A6%AC-You-Only-Look-Twice-Part-I)
 - 📃[RetinaNet](https://velog.io/@cha-suyeon/Focal-Loss-for-Dense-Object-Detection)
+
+<br/>
 
 ### Link
 
