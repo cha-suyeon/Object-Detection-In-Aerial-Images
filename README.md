@@ -49,7 +49,7 @@
 
 ### Problems and Solutions
 
-`*Challenging tasks in Aerial Images*`
+*`Challenging tasks in Aerial Images`*
 
 Object detection in aerial images is a challenging task due to the massive variations of scale, rotation, aspect ratio, and densely arranged targets.
 
@@ -59,7 +59,7 @@ The dataset contains 424,750 object instances of 21 categories of oriented-bound
 
 Based on this large-scale and well-annotated dataset from AI hub, we built baselines covering various state-of-the-art detection and segmentation algorithms with framework Detectron2, where the speed and accuracy performances of each model have been evaluated.
 
-*Problems and Solutions*
+*`Problems and Solutions`*
 
 1. Speed up model training
 - Chose the RetinaNet to match the speed of previous one-stage detectors while surpassing the accuracy of all existing state-of-the-art two-stage detectors
@@ -76,7 +76,7 @@ Based on this large-scale and well-annotated dataset from AI hub, we built basel
     
     The variations of the orientation of objects is caused by the bird's-eye view of aerial images. So we tried to draw rotated bounding box, but couldn’t succeed.
     
-    *Cause of failure*
+    *`Cause of failure`*
     
     - We transformed the Dota dataset format to Coco to use Detectron2 baselines. In this process, the produced annotations only included gemetric annotations and failed to produce angle annotations.
     - We focused on the speed and accuracy performances rather than predicting accurately the rotated bounding box. (Detectron2 provided various backbone networks, so we can customize datasets for our task.)
