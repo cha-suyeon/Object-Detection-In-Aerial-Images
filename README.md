@@ -65,7 +65,7 @@ Based on this large-scale and well-annotated dataset from AI hub, we built basel
     - Chose the RetinaNet to match the speed of previous one-stage detectors while surpassing the accuracy of all existing state-of-the-art two-stage detectors
   
 2. Address Class Imbalance
-    - RetinaNet proposes the *Focal Loss*
+    - RetinaNet proposes the ***Focal Loss***
         - Reshaping the standard cross entropy loss so that it down-weights the loss assigned to well-classified examples.
         - Focusing Training on a sparse set of hard examples and preventing the vast number of easy negatives from overwhelming the detector during training.
 
