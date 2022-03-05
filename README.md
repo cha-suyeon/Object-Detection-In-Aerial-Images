@@ -49,7 +49,7 @@
 
 ### Problems and Solutions
 
-*Challenging tasks in Aerial Images*
+`*Challenging tasks in Aerial Images*`
 
 Object detection in aerial images is a challenging task due to the massive variations of scale, rotation, aspect ratio, and densely arranged targets.
 
