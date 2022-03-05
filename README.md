@@ -77,7 +77,7 @@ Based on this large-scale and well-annotated dataset from AI hub, we built basel
     
     ![image](https://user-images.githubusercontent.com/84028683/156780045-dcb17ee4-f9ea-44cc-be82-658f28767520.png)
     
-    The variations of the orientation of objects is caused by the bird's-eye view of aerial images. So we tried to draw rotated bounding box, but couldn’t succeed.
+    The variations of the orientation of objects is caused by the bird's-eye view of aerial images. So we tried to predict rotated bounding box, but couldn’t succeed.
     
     *`Cause of failure`*
     
